@@ -1,6 +1,6 @@
 # Urban-Mobility-Rienforcement-Learning-Problem
 
-This repository contains a solution for the qualification project on reinforcement learning in urban mobility. The project focuses on developing an intelligent system capable of optimizing urban mobility using reinforcement learning techniques.
+This repository contains a solution for the qualification project for candidates for PhD students in COeXISTENCE. The project focuses on developing an intelligent system capable of optimizing urban mobility using reinforcement learning techniques.
 
 
 ## Project Structure
